@@ -8,4 +8,4 @@ clone o Repositório e instale os módulos do node.js
 #comandos
 
 #npm install// instalar os módulos
-#npm start// roda
+#npm start// rodar projeto
